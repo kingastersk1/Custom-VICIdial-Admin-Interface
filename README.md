@@ -29,3 +29,6 @@ https://kingasterisk.com/services/custom-vicidial
 **Company**
 
 KingAsterisk Technologies delivers advanced contact center dialer solutions and reliable VICIdial services designed to boost efficiency, simplify operations, and enhance agent performance through powerful client-server systems.
+
+
+<img width="1731" height="1227" alt="Custom VICIdial Admin Interface" src="https://github.com/user-attachments/assets/10657100-8240-40bb-9255-0a58650001f0" />
